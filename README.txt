@@ -1,0 +1,1 @@
+This is a dice rolling game developed on python 2.7 and its module packages.
